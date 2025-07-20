@@ -36,7 +36,7 @@ Please analyze my solution and provide feedback on:
 7. Alternative Approaches
 
 For any changes in the prompt, can change it in `content.js`.
-```
+
 
 ## File Structure
 
